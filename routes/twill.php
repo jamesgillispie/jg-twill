@@ -1,0 +1,3 @@
+<?php 
+
+TwillRoutes::module('pages');
