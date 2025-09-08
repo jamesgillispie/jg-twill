@@ -5,7 +5,7 @@
 <x-twill::input
     name="title"
     label="Title"
-    :translated="true"
+    :translated="false"
 />
 
 <x-twill::wysiwyg
