@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
  
 use App\Repositories\PageRepository;
+use A17\Twill\Facades\TwillAppSettings;
 use Illuminate\Contracts\View\View;
 use Illuminate\Http\Request;
  
